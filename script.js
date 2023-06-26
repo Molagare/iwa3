@@ -7,4 +7,4 @@ import {year} from './configuration.js'
 
 const message = 'c'  + company + year
 console.log(message);
-document.querySelector('footer').innertext = message
+document.querySelector('footer').innerText = message

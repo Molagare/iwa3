@@ -1,10 +1,9 @@
 
-private firstname = Nwabisa
-private surname = "Gabe"
-public role = "CEO"
+const firstname = 'Nwabisa'
+const surname = "Gabe"
+export const role = "CEO"
+console.log(role);
 
-export const Role = CEO
-console.log(Role);
-
-private display= firstname + " "+ surname + " (" + role + ")"
+display= firstname + " "+ surname + " (" + role + ")"
+display = nwabisa
 document.querySelector('#nwabisa').innerText = display

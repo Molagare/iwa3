@@ -1,5 +1,5 @@
-import {Role as Rolenwabisa} from './nwabisa.js'
-import {Role as Rolejohannes} from './johannes.js'
-import {Role as Rolealex} from './alex.js'
+import {role as rolenwabisa} from './nwabisa.js'
+import {role as rolejohannes} from './johannes.js'
+import {role as rolealex} from './alex.js'
 
-console.log(Rolenwabisa,Rolejohannes,Rolealex)
+console.log(rolenwabisa,rolejohannes,rolealex)
